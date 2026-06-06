@@ -1,0 +1,6 @@
+===== E-COMMERCE SALES REPORT =====
+Total Revenue: Rs.10453
+Average Order Value: Rs.348.43
+Top Selling Product: Mouse
+Highest Revenue Category: Electronics
+Most Sold Category: Electronics

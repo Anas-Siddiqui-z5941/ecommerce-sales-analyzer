@@ -1,0 +1,31 @@
+OrderID,Customer,Region,Product,Category,Quantity,Price,Sales
+1001,Alice,North,Laptop,Electronics,1,800,800
+1002,Bob,South,Mouse,Electronics,2,20,40
+1003,Charlie,East,Keyboard,Electronics,1,50,50
+1004,David,West,Desk,Furniture,1,200,200
+1005,Eva,North,Chair,Furniture,2,120,240
+1006,Frank,South,Laptop,Electronics,1,850,850
+1007,Grace,East,Monitor,Electronics,2,300,600
+1008,Henry,West,Desk Lamp,Furniture,3,25,75
+1009,Ivy,North,Mouse,Electronics,4,20,80
+1010,Jack,South,Chair,Furniture,1,120,120
+1011,Alice,East,Laptop,Electronics,1,900,900
+1012,Bob,West,Keyboard,Electronics,2,55,110
+1013,Charlie,North,Monitor,Electronics,1,280,280
+1014,David,South,Desk,Furniture,1,220,220
+1015,Eva,East,Mouse,Electronics,5,18,90
+1016,Frank,West,Chair,Furniture,2,130,260
+1017,Grace,North,Laptop,Electronics,1,950,950
+1018,Henry,South,Monitor,Electronics,1,320,320
+1019,Ivy,East,Desk Lamp,Furniture,2,30,60
+1020,Jack,West,Mouse,Electronics,3,22,66
+1021,Alice,North,Tablet,Electronics,2,400,800
+1022,Bob,South,Printer,Electronics,1,250,250
+1023,Charlie,East,Chair,Furniture,3,110,330
+1024,David,West,Laptop,Electronics,1,870,870
+1025,Eva,North,Desk,Furniture,1,240,240
+1026,Frank,South,Keyboard,Electronics,4,60,240
+1027,Grace,East,Tablet,Electronics,1,420,420
+1028,Henry,West,Monitor,Electronics,2,310,620
+1029,Ivy,North,Printer,Electronics,1,260,260
+1030,Jack,South,Desk Lamp,Furniture,4,28,112
